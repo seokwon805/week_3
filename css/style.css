@@ -1,0 +1,26 @@
+  
+.red_box {width:77%; height:65%; background-color: red; position: absolute;}
+
+.white_box1 {width:20%; height:25%; background-color: white; position: absolute;}
+
+.white_box2 {width:20%; height:35%; background-color: white; position: absolute;}
+
+.blue_box {width:20%; height:32%; background-color: blue; position: absolute;}
+
+.white_box3 {width:60%; height:32%; background-color:white; position: absolute;}
+
+.white_box4 {width:14%; height:14%; background-color:white; position: absolute;}
+
+.yellow_box {width:14%; height:14%; background-color:yellow; position: absolute;}
+
+.black_box {width: 100%; height: 100%; background-color:black; position: fixed; top: 10px;}
+
+
+
+
+25+5+35+3=68
+100-68=32
+20+4+60=84
+100-88=12
+65+3+4=72
+100-72=28
